@@ -6,7 +6,7 @@ IMPORTANTE: os tempos dependem da maquina.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.231614
+aleatoria 4000x4000 d=35%           -   489760       0.257860
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -15,32 +15,56 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.162988
+matriz gerada                       -   489760       0.177419
+[matriz_grande paralela-v1 2 threads, repeticao 1]
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.255224
 [matriz_grande paralela 4 threads, repeticao 1]
 === Contagem de objetos - versao PARALELA (4 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.092138
+matriz gerada                       -   489760       0.093666
+[matriz_grande paralela-v1 4 threads, repeticao 1]
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.160841
 [matriz_grande paralela 8 threads, repeticao 1]
 === Contagem de objetos - versao PARALELA (8 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.059428
+matriz gerada                       -   489760       0.064085
+[matriz_grande paralela-v1 8 threads, repeticao 1]
+=== Contagem de objetos - versao PARALELA (8 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.133500
 [matriz_grande paralela 16 threads, repeticao 1]
 === Contagem de objetos - versao PARALELA (16 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.057018
+matriz gerada                       -   489760       0.053665
+[matriz_grande paralela-v1 16 threads, repeticao 1]
+=== Contagem de objetos - versao PARALELA (16 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.122051
 --- repeticao 2 ---
 [matriz_grande sequencial 1 thread, repeticao 2]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.225363
+aleatoria 4000x4000 d=35%           -   489760       0.237813
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -49,32 +73,56 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.158171
+matriz gerada                       -   489760       0.174511
+[matriz_grande paralela-v1 2 threads, repeticao 2]
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.233466
 [matriz_grande paralela 4 threads, repeticao 2]
 === Contagem de objetos - versao PARALELA (4 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.100354
+matriz gerada                       -   489760       0.103066
+[matriz_grande paralela-v1 4 threads, repeticao 2]
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.162093
 [matriz_grande paralela 8 threads, repeticao 2]
 === Contagem de objetos - versao PARALELA (8 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.089308
+matriz gerada                       -   489760       0.061173
+[matriz_grande paralela-v1 8 threads, repeticao 2]
+=== Contagem de objetos - versao PARALELA (8 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.129077
 [matriz_grande paralela 16 threads, repeticao 2]
 === Contagem de objetos - versao PARALELA (16 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.048838
+matriz gerada                       -   489760       0.052127
+[matriz_grande paralela-v1 16 threads, repeticao 2]
+=== Contagem de objetos - versao PARALELA (16 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.123069
 --- repeticao 3 ---
 [matriz_grande sequencial 1 thread, repeticao 3]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.230692
+aleatoria 4000x4000 d=35%           -   489760       0.234624
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -83,32 +131,56 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.160515
+matriz gerada                       -   489760       0.169428
+[matriz_grande paralela-v1 2 threads, repeticao 3]
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.233624
 [matriz_grande paralela 4 threads, repeticao 3]
 === Contagem de objetos - versao PARALELA (4 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.089646
+matriz gerada                       -   489760       0.092005
+[matriz_grande paralela-v1 4 threads, repeticao 3]
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.162186
 [matriz_grande paralela 8 threads, repeticao 3]
 === Contagem de objetos - versao PARALELA (8 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.054022
+matriz gerada                       -   489760       0.062826
+[matriz_grande paralela-v1 8 threads, repeticao 3]
+=== Contagem de objetos - versao PARALELA (8 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.142383
 [matriz_grande paralela 16 threads, repeticao 3]
 === Contagem de objetos - versao PARALELA (16 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.060402
+matriz gerada                       -   489760       0.051916
+[matriz_grande paralela-v1 16 threads, repeticao 3]
+=== Contagem de objetos - versao PARALELA (16 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.112916
 --- repeticao 4 ---
 [matriz_grande sequencial 1 thread, repeticao 4]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.227569
+aleatoria 4000x4000 d=35%           -   489760       0.224341
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -117,32 +189,56 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.154413
+matriz gerada                       -   489760       0.163707
+[matriz_grande paralela-v1 2 threads, repeticao 4]
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.219788
 [matriz_grande paralela 4 threads, repeticao 4]
 === Contagem de objetos - versao PARALELA (4 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.090317
+matriz gerada                       -   489760       0.101324
+[matriz_grande paralela-v1 4 threads, repeticao 4]
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.159021
 [matriz_grande paralela 8 threads, repeticao 4]
 === Contagem de objetos - versao PARALELA (8 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.076683
+matriz gerada                       -   489760       0.068671
+[matriz_grande paralela-v1 8 threads, repeticao 4]
+=== Contagem de objetos - versao PARALELA (8 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.135044
 [matriz_grande paralela 16 threads, repeticao 4]
 === Contagem de objetos - versao PARALELA (16 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.050935
+matriz gerada                       -   489760       0.049027
+[matriz_grande paralela-v1 16 threads, repeticao 4]
+=== Contagem de objetos - versao PARALELA (16 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.116383
 --- repeticao 5 ---
 [matriz_grande sequencial 1 thread, repeticao 5]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.222410
+aleatoria 4000x4000 d=35%           -   489760       0.225605
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -151,25 +247,49 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.158927
+matriz gerada                       -   489760       0.166955
+[matriz_grande paralela-v1 2 threads, repeticao 5]
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.218461
 [matriz_grande paralela 4 threads, repeticao 5]
 === Contagem de objetos - versao PARALELA (4 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.091949
+matriz gerada                       -   489760       0.090475
+[matriz_grande paralela-v1 4 threads, repeticao 5]
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.161433
 [matriz_grande paralela 8 threads, repeticao 5]
 === Contagem de objetos - versao PARALELA (8 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.068145
+matriz gerada                       -   489760       0.060115
+[matriz_grande paralela-v1 8 threads, repeticao 5]
+=== Contagem de objetos - versao PARALELA (8 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.120433
 [matriz_grande paralela 16 threads, repeticao 5]
 === Contagem de objetos - versao PARALELA (16 Pthreads) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.055099
+matriz gerada                       -   489760       0.064601
+[matriz_grande paralela-v1 16 threads, repeticao 5]
+=== Contagem de objetos - versao PARALELA (16 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+matriz gerada                       -   489760       0.128243
 Parte 2: matrizes NxN (N em 12 100 316 1000 2000 4000), densidade 35%, sequencial x 4 threads
 [escala_12 sequencial 1 thread, repeticao 1]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
@@ -185,7 +305,7 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -        9       0.000211
+matriz gerada                       -        9       0.000453
 [escala_12 sequencial 1 thread, repeticao 2]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
@@ -200,7 +320,7 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -        9       0.000201
+matriz gerada                       -        9       0.000423
 [escala_12 sequencial 1 thread, repeticao 3]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
@@ -215,7 +335,7 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -        9       0.000526
+matriz gerada                       -        9       0.000351
 [escala_12 sequencial 1 thread, repeticao 4]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
@@ -230,7 +350,7 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -        9       0.000208
+matriz gerada                       -        9       0.000171
 [escala_12 sequencial 1 thread, repeticao 5]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
@@ -245,13 +365,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -        9       0.000238
+matriz gerada                       -        9       0.000151
 [escala_100 sequencial 1 thread, repeticao 1]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 100x100 d=35%             -      308       0.000176
+aleatoria 100x100 d=35%             -      308       0.000185
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -260,13 +380,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -      308       0.000284
+matriz gerada                       -      308       0.000313
 [escala_100 sequencial 1 thread, repeticao 2]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 100x100 d=35%             -      308       0.000182
+aleatoria 100x100 d=35%             -      308       0.000218
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -275,13 +395,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -      308       0.000264
+matriz gerada                       -      308       0.000283
 [escala_100 sequencial 1 thread, repeticao 3]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 100x100 d=35%             -      308       0.000165
+aleatoria 100x100 d=35%             -      308       0.000197
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -290,13 +410,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -      308       0.000422
+matriz gerada                       -      308       0.000302
 [escala_100 sequencial 1 thread, repeticao 4]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 100x100 d=35%             -      308       0.000171
+aleatoria 100x100 d=35%             -      308       0.000178
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -305,13 +425,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -      308       0.000377
+matriz gerada                       -      308       0.000242
 [escala_100 sequencial 1 thread, repeticao 5]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 100x100 d=35%             -      308       0.000198
+aleatoria 100x100 d=35%             -      308       0.000162
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -320,13 +440,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -      308       0.000353
+matriz gerada                       -      308       0.000255
 [escala_316 sequencial 1 thread, repeticao 1]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 316x316 d=35%             -     3135       0.001512
+aleatoria 316x316 d=35%             -     3135       0.001399
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -335,13 +455,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -     3135       0.001632
+matriz gerada                       -     3135       0.001104
 [escala_316 sequencial 1 thread, repeticao 2]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 316x316 d=35%             -     3135       0.001596
+aleatoria 316x316 d=35%             -     3135       0.001494
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -350,13 +470,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -     3135       0.000924
+matriz gerada                       -     3135       0.000940
 [escala_316 sequencial 1 thread, repeticao 3]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 316x316 d=35%             -     3135       0.001743
+aleatoria 316x316 d=35%             -     3135       0.001411
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -365,13 +485,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -     3135       0.000887
+matriz gerada                       -     3135       0.000822
 [escala_316 sequencial 1 thread, repeticao 4]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 316x316 d=35%             -     3135       0.001475
+aleatoria 316x316 d=35%             -     3135       0.001547
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -380,13 +500,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -     3135       0.000877
+matriz gerada                       -     3135       0.001134
 [escala_316 sequencial 1 thread, repeticao 5]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 316x316 d=35%             -     3135       0.001375
+aleatoria 316x316 d=35%             -     3135       0.001495
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -395,13 +515,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -     3135       0.001075
+matriz gerada                       -     3135       0.000899
 [escala_1000 sequencial 1 thread, repeticao 1]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 1000x1000 d=35%           -    30848       0.014588
+aleatoria 1000x1000 d=35%           -    30848       0.014461
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -410,13 +530,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -    30848       0.006122
+matriz gerada                       -    30848       0.006635
 [escala_1000 sequencial 1 thread, repeticao 2]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 1000x1000 d=35%           -    30848       0.015159
+aleatoria 1000x1000 d=35%           -    30848       0.014141
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -425,13 +545,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -    30848       0.005881
+matriz gerada                       -    30848       0.005789
 [escala_1000 sequencial 1 thread, repeticao 3]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 1000x1000 d=35%           -    30848       0.014890
+aleatoria 1000x1000 d=35%           -    30848       0.013641
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -440,13 +560,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -    30848       0.005909
+matriz gerada                       -    30848       0.005804
 [escala_1000 sequencial 1 thread, repeticao 4]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 1000x1000 d=35%           -    30848       0.014257
+aleatoria 1000x1000 d=35%           -    30848       0.013946
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -455,13 +575,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -    30848       0.005861
+matriz gerada                       -    30848       0.005698
 [escala_1000 sequencial 1 thread, repeticao 5]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 1000x1000 d=35%           -    30848       0.015683
+aleatoria 1000x1000 d=35%           -    30848       0.014299
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -470,13 +590,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -    30848       0.006063
+matriz gerada                       -    30848       0.005988
 [escala_2000 sequencial 1 thread, repeticao 1]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 2000x2000 d=35%           -   123036       0.056038
+aleatoria 2000x2000 d=35%           -   123036       0.057619
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -485,13 +605,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   123036       0.024681
+matriz gerada                       -   123036       0.023711
 [escala_2000 sequencial 1 thread, repeticao 2]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 2000x2000 d=35%           -   123036       0.055306
+aleatoria 2000x2000 d=35%           -   123036       0.058511
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -500,13 +620,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   123036       0.023335
+matriz gerada                       -   123036       0.022683
 [escala_2000 sequencial 1 thread, repeticao 3]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 2000x2000 d=35%           -   123036       0.056726
+aleatoria 2000x2000 d=35%           -   123036       0.054551
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -515,13 +635,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   123036       0.023027
+matriz gerada                       -   123036       0.022746
 [escala_2000 sequencial 1 thread, repeticao 4]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 2000x2000 d=35%           -   123036       0.055267
+aleatoria 2000x2000 d=35%           -   123036       0.054640
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -530,13 +650,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   123036       0.023101
+matriz gerada                       -   123036       0.023241
 [escala_2000 sequencial 1 thread, repeticao 5]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 2000x2000 d=35%           -   123036       0.054967
+aleatoria 2000x2000 d=35%           -   123036       0.054892
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -545,13 +665,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   123036       0.023436
+matriz gerada                       -   123036       0.023720
 [escala_4000 sequencial 1 thread, repeticao 1]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.228458
+aleatoria 4000x4000 d=35%           -   489760       0.220623
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -560,13 +680,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.096718
+matriz gerada                       -   489760       0.111438
 [escala_4000 sequencial 1 thread, repeticao 2]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.235137
+aleatoria 4000x4000 d=35%           -   489760       0.219558
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -575,13 +695,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.089979
+matriz gerada                       -   489760       0.090198
 [escala_4000 sequencial 1 thread, repeticao 3]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.228018
+aleatoria 4000x4000 d=35%           -   489760       0.236204
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -590,13 +710,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.093792
+matriz gerada                       -   489760       0.097366
 [escala_4000 sequencial 1 thread, repeticao 4]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.237701
+aleatoria 4000x4000 d=35%           -   489760       0.221890
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -605,13 +725,13 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.108566
+matriz gerada                       -   489760       0.090990
 [escala_4000 sequencial 1 thread, repeticao 5]
 === Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-aleatoria 4000x4000 d=35%           -   489760       0.229118
+aleatoria 4000x4000 d=35%           -   489760       0.221577
 -----------------------------------------------------------------------------
 
 Sem divergencias.
@@ -620,4 +740,4 @@ Sem divergencias.
 
 Matriz                       Esperado   Obtido      Tempo (s)   Status
 -----------------------------------------------------------------------------
-matriz gerada                       -   489760       0.098443
+matriz gerada                       -   489760       0.090829

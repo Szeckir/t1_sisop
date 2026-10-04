@@ -29,19 +29,31 @@
 <text x="410.0" y="444.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">Threads (p)</text>
 <text x="24.0" y="226.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222" transform="rotate(-90 24.0 226.0)">Eficiência E(p)</text>
 <polyline points="134.4,112.7 685.6,112.7" fill="none" stroke="#9a9a9a" stroke-width="2.5" stroke-dasharray="7 5"/>
-<polyline points="134.4,112.7 272.2,193.1 410.0,220.7 547.8,277.7 685.6,322.9" fill="none" stroke="#1f6fb4" stroke-width="2.5"/>
+<polyline points="134.4,112.7 272.2,199.8 410.0,218.6 547.8,263.7 685.6,316.3" fill="none" stroke="#1f6fb4" stroke-width="2.5"/>
 <circle cx="134.4" cy="112.7" r="4.5" fill="#1f6fb4"/>
-<circle cx="272.2" cy="193.1" r="4.5" fill="#1f6fb4"/>
-<text x="272.2" y="182.1" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,72</text>
-<circle cx="410.0" cy="220.7" r="4.5" fill="#1f6fb4"/>
-<text x="410.0" y="209.7" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,62</text>
-<circle cx="547.8" cy="277.7" r="4.5" fill="#1f6fb4"/>
-<text x="547.8" y="266.7" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,42</text>
-<circle cx="685.6" cy="322.9" r="4.5" fill="#1f6fb4"/>
-<text x="685.6" y="311.9" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,26</text>
-<rect x="495.8" y="68" width="222.2" height="54" fill="white" fill-opacity="0.92" stroke="#bbb"/>
-<line x1="505.8" y1="84" x2="533.8" y2="84" stroke="#9a9a9a" stroke-width="2.5" stroke-dasharray="7 5"/>
-<text x="541.8" y="88.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Ideal E(p) = 1</text>
-<line x1="505.8" y1="106" x2="533.8" y2="106" stroke="#1f6fb4" stroke-width="2.5"/>
-<text x="541.8" y="110.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Paralela (versão atual)</text>
+<circle cx="272.2" cy="199.8" r="4.5" fill="#1f6fb4"/>
+<text x="272.2" y="188.8" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,69</text>
+<circle cx="410.0" cy="218.6" r="4.5" fill="#1f6fb4"/>
+<text x="410.0" y="207.6" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,63</text>
+<circle cx="547.8" cy="263.7" r="4.5" fill="#1f6fb4"/>
+<text x="547.8" y="252.7" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,47</text>
+<circle cx="685.6" cy="316.3" r="4.5" fill="#1f6fb4"/>
+<text x="685.6" y="305.3" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,28</text>
+<polyline points="134.4,112.7 272.2,253.6 410.0,293.1 547.8,333.8 685.6,362.0" fill="none" stroke="#d9822b" stroke-width="2.5"/>
+<circle cx="134.4" cy="112.7" r="4.5" fill="#d9822b"/>
+<circle cx="272.2" cy="253.6" r="4.5" fill="#d9822b"/>
+<text x="272.2" y="242.6" font-size="12" text-anchor="middle" font-weight="bold" fill="#d9822b">0,50</text>
+<circle cx="410.0" cy="293.1" r="4.5" fill="#d9822b"/>
+<text x="410.0" y="282.1" font-size="12" text-anchor="middle" font-weight="bold" fill="#d9822b">0,36</text>
+<circle cx="547.8" cy="333.8" r="4.5" fill="#d9822b"/>
+<text x="547.8" y="322.8" font-size="12" text-anchor="middle" font-weight="bold" fill="#d9822b">0,22</text>
+<circle cx="685.6" cy="362.0" r="4.5" fill="#d9822b"/>
+<text x="685.6" y="351.0" font-size="12" text-anchor="middle" font-weight="bold" fill="#d9822b">0,12</text>
+<rect x="421.8" y="68" width="296.2" height="76" fill="white" fill-opacity="0.92" stroke="#bbb"/>
+<line x1="431.8" y1="84" x2="459.8" y2="84" stroke="#9a9a9a" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="467.8" y="88.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Ideal E(p) = 1</text>
+<line x1="431.8" y1="106" x2="459.8" y2="106" stroke="#1f6fb4" stroke-width="2.5"/>
+<text x="467.8" y="110.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Paralela (versão atual)</text>
+<line x1="431.8" y1="128" x2="459.8" y2="128" stroke="#d9822b" stroke-width="2.5"/>
+<text x="467.8" y="132.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Paralela v1 (antes da otimização)</text>
 </svg>

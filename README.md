@@ -185,7 +185,6 @@ results/
   grafico-tempo.svg, grafico-aceleracao.svg, grafico-eficiencia.svg, grafico-escala.svg
 slides/
   apresentacao.pdf
-  apresentacao.pptx
 ```
 
 ## 10. Referencias e ferramentas
