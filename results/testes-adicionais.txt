@@ -1,0 +1,62 @@
+# Registro de testes adicionais
+Gerado em UTC: 2026-10-01 21:44:25
+
+## tests/adicionais/a1_zeros.txt
+=== Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a1_zeros.txt        -        0       0.000001
+-----------------------------------------------------------------------------
+
+Sem divergencias.
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a1_zeros.txt        -        0       0.000156
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a1_zeros.txt        -        0       0.000222
+
+## tests/adicionais/a2_objeto_unico.txt
+=== Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a2_objeto_unico.txt        -        1       0.000001
+-----------------------------------------------------------------------------
+
+Sem divergencias.
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a2_objeto_unico.txt        -        1       0.000132
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a2_objeto_unico.txt        -        1       0.000166
+
+## tests/adicionais/a3_diagonal.txt
+=== Contagem de objetos - versao SEQUENCIAL (conectividade 8) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a3_diagonal.txt        -        1       0.000001
+-----------------------------------------------------------------------------
+
+Sem divergencias.
+=== Contagem de objetos - versao PARALELA (2 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a3_diagonal.txt        -        1       0.000160
+=== Contagem de objetos - versao PARALELA (4 Pthreads) ===
+
+Matriz                       Esperado   Obtido      Tempo (s)   Status
+-----------------------------------------------------------------------------
+tests/adicionais/a3_diagonal.txt        -        1       0.000180

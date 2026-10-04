@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="90" y1="396.0" x2="730" y2="396.0" stroke="#e3e3e3"/>
+<text x="82.0" y="400.0" font-size="13" text-anchor="end" font-weight="normal" fill="#222">0,0</text>
+<line x1="90" y1="339.3" x2="730" y2="339.3" stroke="#e3e3e3"/>
+<text x="82.0" y="343.3" font-size="13" text-anchor="end" font-weight="normal" fill="#222">0,2</text>
+<line x1="90" y1="282.7" x2="730" y2="282.7" stroke="#e3e3e3"/>
+<text x="82.0" y="286.7" font-size="13" text-anchor="end" font-weight="normal" fill="#222">0,4</text>
+<line x1="90" y1="226.0" x2="730" y2="226.0" stroke="#e3e3e3"/>
+<text x="82.0" y="230.0" font-size="13" text-anchor="end" font-weight="normal" fill="#222">0,6</text>
+<line x1="90" y1="169.3" x2="730" y2="169.3" stroke="#e3e3e3"/>
+<text x="82.0" y="173.3" font-size="13" text-anchor="end" font-weight="normal" fill="#222">0,8</text>
+<line x1="90" y1="112.7" x2="730" y2="112.7" stroke="#e3e3e3"/>
+<text x="82.0" y="116.7" font-size="13" text-anchor="end" font-weight="normal" fill="#222">1,0</text>
+<line x1="90" y1="56.0" x2="730" y2="56.0" stroke="#e3e3e3"/>
+<text x="82.0" y="60.0" font-size="13" text-anchor="end" font-weight="normal" fill="#222">1,2</text>
+<line x1="134.4" y1="396" x2="134.4" y2="56" stroke="#e3e3e3"/>
+<text x="134.4" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">1</text>
+<line x1="272.2" y1="396" x2="272.2" y2="56" stroke="#e3e3e3"/>
+<text x="272.2" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">2</text>
+<line x1="410.0" y1="396" x2="410.0" y2="56" stroke="#e3e3e3"/>
+<text x="410.0" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">4</text>
+<line x1="547.8" y1="396" x2="547.8" y2="56" stroke="#e3e3e3"/>
+<text x="547.8" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">8</text>
+<line x1="685.6" y1="396" x2="685.6" y2="56" stroke="#e3e3e3"/>
+<text x="685.6" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">16</text>
+<rect x="90" y="56" width="640" height="340" fill="none" stroke="#333"/>
+<text x="380.0" y="32.0" font-size="17" text-anchor="middle" font-weight="bold" fill="#222">Eficiência E(p) = S(p) / p</text>
+<text x="410.0" y="444.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">Threads (p)</text>
+<text x="24.0" y="226.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222" transform="rotate(-90 24.0 226.0)">Eficiência E(p)</text>
+<polyline points="134.4,112.7 685.6,112.7" fill="none" stroke="#9a9a9a" stroke-width="2.5" stroke-dasharray="7 5"/>
+<polyline points="134.4,112.7 272.2,193.1 410.0,220.7 547.8,277.7 685.6,322.9" fill="none" stroke="#1f6fb4" stroke-width="2.5"/>
+<circle cx="134.4" cy="112.7" r="4.5" fill="#1f6fb4"/>
+<circle cx="272.2" cy="193.1" r="4.5" fill="#1f6fb4"/>
+<text x="272.2" y="182.1" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,72</text>
+<circle cx="410.0" cy="220.7" r="4.5" fill="#1f6fb4"/>
+<text x="410.0" y="209.7" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,62</text>
+<circle cx="547.8" cy="277.7" r="4.5" fill="#1f6fb4"/>
+<text x="547.8" y="266.7" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,42</text>
+<circle cx="685.6" cy="322.9" r="4.5" fill="#1f6fb4"/>
+<text x="685.6" y="311.9" font-size="12" text-anchor="middle" font-weight="bold" fill="#1f6fb4">0,26</text>
+<rect x="495.8" y="68" width="222.2" height="54" fill="white" fill-opacity="0.92" stroke="#bbb"/>
+<line x1="505.8" y1="84" x2="533.8" y2="84" stroke="#9a9a9a" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="541.8" y="88.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Ideal E(p) = 1</text>
+<line x1="505.8" y1="106" x2="533.8" y2="106" stroke="#1f6fb4" stroke-width="2.5"/>
+<text x="541.8" y="110.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Paralela (versão atual)</text>
+</svg>

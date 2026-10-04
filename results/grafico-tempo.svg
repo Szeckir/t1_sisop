@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="90" y1="396.0" x2="730" y2="396.0" stroke="#e3e3e3"/>
+<text x="82.0" y="400.0" font-size="13" text-anchor="end" font-weight="normal" fill="#222">0</text>
+<line x1="90" y1="349.3" x2="730" y2="349.3" stroke="#e3e3e3"/>
+<text x="82.0" y="353.3" font-size="13" text-anchor="end" font-weight="normal" fill="#222">50</text>
+<line x1="90" y1="302.6" x2="730" y2="302.6" stroke="#e3e3e3"/>
+<text x="82.0" y="306.6" font-size="13" text-anchor="end" font-weight="normal" fill="#222">100</text>
+<line x1="90" y1="255.9" x2="730" y2="255.9" stroke="#e3e3e3"/>
+<text x="82.0" y="259.9" font-size="13" text-anchor="end" font-weight="normal" fill="#222">150</text>
+<line x1="90" y1="209.2" x2="730" y2="209.2" stroke="#e3e3e3"/>
+<text x="82.0" y="213.2" font-size="13" text-anchor="end" font-weight="normal" fill="#222">200</text>
+<line x1="90" y1="162.6" x2="730" y2="162.6" stroke="#e3e3e3"/>
+<text x="82.0" y="166.6" font-size="13" text-anchor="end" font-weight="normal" fill="#222">250</text>
+<line x1="90" y1="115.9" x2="730" y2="115.9" stroke="#e3e3e3"/>
+<text x="82.0" y="119.9" font-size="13" text-anchor="end" font-weight="normal" fill="#222">300</text>
+<line x1="90" y1="69.2" x2="730" y2="69.2" stroke="#e3e3e3"/>
+<text x="82.0" y="73.2" font-size="13" text-anchor="end" font-weight="normal" fill="#222">350</text>
+<line x1="134.4" y1="396" x2="134.4" y2="56" stroke="#e3e3e3"/>
+<text x="134.4" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">1</text>
+<line x1="272.2" y1="396" x2="272.2" y2="56" stroke="#e3e3e3"/>
+<text x="272.2" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">2</text>
+<line x1="410.0" y1="396" x2="410.0" y2="56" stroke="#e3e3e3"/>
+<text x="410.0" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">4</text>
+<line x1="547.8" y1="396" x2="547.8" y2="56" stroke="#e3e3e3"/>
+<text x="547.8" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">8</text>
+<line x1="685.6" y1="396" x2="685.6" y2="56" stroke="#e3e3e3"/>
+<text x="685.6" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">16</text>
+<rect x="90" y="56" width="640" height="340" fill="none" stroke="#333"/>
+<text x="380.0" y="32.0" font-size="17" text-anchor="middle" font-weight="bold" fill="#222">Tempo de execução (matriz 4000 x 4000)</text>
+<text x="410.0" y="444.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">Threads (1 = sequencial)</text>
+<text x="24.0" y="226.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222" transform="rotate(-90 24.0 226.0)">Mediana do tempo (ms)</text>
+<polyline points="134.4,183.5 685.6,183.5" fill="none" stroke="#444444" stroke-width="2.5" stroke-dasharray="7 5"/>
+<polyline points="272.2,247.6 410.0,310.1 547.8,332.4 685.6,344.5" fill="none" stroke="#1f6fb4" stroke-width="2.5"/>
+<line x1="272.2" y1="250.5" x2="272.2" y2="244.6" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="267.2" y1="250.5" x2="277.2" y2="250.5" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="267.2" y1="244.6" x2="277.2" y2="244.6" stroke="#1f6fb4" stroke-width="1.5"/>
+<circle cx="272.2" cy="247.6" r="4.5" fill="#1f6fb4"/>
+<line x1="410.0" y1="314.2" x2="410.0" y2="306.1" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="405.0" y1="314.2" x2="415.0" y2="314.2" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="405.0" y1="306.1" x2="415.0" y2="306.1" stroke="#1f6fb4" stroke-width="1.5"/>
+<circle cx="410.0" cy="310.1" r="4.5" fill="#1f6fb4"/>
+<line x1="547.8" y1="345.5" x2="547.8" y2="319.3" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="542.8" y1="345.5" x2="552.8" y2="345.5" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="542.8" y1="319.3" x2="552.8" y2="319.3" stroke="#1f6fb4" stroke-width="1.5"/>
+<circle cx="547.8" cy="332.4" r="4.5" fill="#1f6fb4"/>
+<line x1="685.6" y1="348.9" x2="685.6" y2="340.2" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="680.6" y1="348.9" x2="690.6" y2="348.9" stroke="#1f6fb4" stroke-width="1.5"/>
+<line x1="680.6" y1="340.2" x2="690.6" y2="340.2" stroke="#1f6fb4" stroke-width="1.5"/>
+<circle cx="685.6" cy="344.5" r="4.5" fill="#1f6fb4"/>
+<rect x="495.8" y="68" width="222.2" height="54" fill="white" fill-opacity="0.92" stroke="#bbb"/>
+<line x1="505.8" y1="84" x2="533.8" y2="84" stroke="#444444" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="541.8" y="88.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Sequencial</text>
+<line x1="505.8" y1="106" x2="533.8" y2="106" stroke="#1f6fb4" stroke-width="2.5"/>
+<text x="541.8" y="110.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Paralela (versão atual)</text>
+</svg>

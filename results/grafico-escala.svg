@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="90" y1="396.0" x2="730" y2="396.0" stroke="#e3e3e3"/>
+<text x="82.0" y="400.0" font-size="13" text-anchor="end" font-weight="normal" fill="#222">1 µs</text>
+<line x1="90" y1="342.0" x2="730" y2="342.0" stroke="#e3e3e3"/>
+<text x="82.0" y="346.0" font-size="13" text-anchor="end" font-weight="normal" fill="#222">10 µs</text>
+<line x1="90" y1="288.1" x2="730" y2="288.1" stroke="#e3e3e3"/>
+<text x="82.0" y="292.1" font-size="13" text-anchor="end" font-weight="normal" fill="#222">100 µs</text>
+<line x1="90" y1="234.1" x2="730" y2="234.1" stroke="#e3e3e3"/>
+<text x="82.0" y="238.1" font-size="13" text-anchor="end" font-weight="normal" fill="#222">1 ms</text>
+<line x1="90" y1="180.2" x2="730" y2="180.2" stroke="#e3e3e3"/>
+<text x="82.0" y="184.2" font-size="13" text-anchor="end" font-weight="normal" fill="#222">10 ms</text>
+<line x1="90" y1="126.2" x2="730" y2="126.2" stroke="#e3e3e3"/>
+<text x="82.0" y="130.2" font-size="13" text-anchor="end" font-weight="normal" fill="#222">100 ms</text>
+<line x1="90" y1="72.2" x2="730" y2="72.2" stroke="#e3e3e3"/>
+<text x="82.0" y="76.2" font-size="13" text-anchor="end" font-weight="normal" fill="#222">1 s</text>
+<line x1="122.1" y1="396" x2="122.1" y2="56" stroke="#e3e3e3"/>
+<text x="122.1" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">100</text>
+<line x1="228.8" y1="396" x2="228.8" y2="56" stroke="#e3e3e3"/>
+<text x="228.8" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">1 mil</text>
+<line x1="335.4" y1="396" x2="335.4" y2="56" stroke="#e3e3e3"/>
+<text x="335.4" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">10 mil</text>
+<line x1="442.1" y1="396" x2="442.1" y2="56" stroke="#e3e3e3"/>
+<text x="442.1" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">100 mil</text>
+<line x1="548.8" y1="396" x2="548.8" y2="56" stroke="#e3e3e3"/>
+<text x="548.8" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">1 mi</text>
+<line x1="655.4" y1="396" x2="655.4" y2="56" stroke="#e3e3e3"/>
+<text x="655.4" y="416.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">10 mi</text>
+<rect x="90" y="56" width="640" height="340" fill="none" stroke="#333"/>
+<text x="380.0" y="32.0" font-size="17" text-anchor="middle" font-weight="bold" fill="#222">Tempo x tamanho da matriz (densidade 35%)</text>
+<text x="410.0" y="444.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">Células da matriz (L x C)</text>
+<text x="24.0" y="226.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222" transform="rotate(-90 24.0 226.0)">Mediana do tempo (s)</text>
+<polyline points="139.0,370.3 335.4,274.8 442.0,224.4 548.8,170.8 613.0,140.1 677.2,106.8" fill="none" stroke="#444444" stroke-width="2.5"/>
+<circle cx="139.0" cy="370.3" r="4.5" fill="#444444"/>
+<circle cx="335.4" cy="274.8" r="4.5" fill="#444444"/>
+<circle cx="442.0" cy="224.4" r="4.5" fill="#444444"/>
+<circle cx="548.8" cy="170.8" r="4.5" fill="#444444"/>
+<circle cx="613.0" cy="140.1" r="4.5" fill="#444444"/>
+<circle cx="677.2" cy="106.8" r="4.5" fill="#444444"/>
+<polyline points="139.0,270.6 335.4,258.5 442.0,236.0 548.8,192.5 613.0,160.3 677.2,127.0" fill="none" stroke="#1f6fb4" stroke-width="2.5"/>
+<circle cx="139.0" cy="270.6" r="4.5" fill="#1f6fb4"/>
+<circle cx="335.4" cy="258.5" r="4.5" fill="#1f6fb4"/>
+<circle cx="442.0" cy="236.0" r="4.5" fill="#1f6fb4"/>
+<circle cx="548.8" cy="192.5" r="4.5" fill="#1f6fb4"/>
+<circle cx="613.0" cy="160.3" r="4.5" fill="#1f6fb4"/>
+<circle cx="677.2" cy="127.0" r="4.5" fill="#1f6fb4"/>
+<rect x="102.0" y="68" width="192.6" height="54" fill="white" fill-opacity="0.92" stroke="#bbb"/>
+<line x1="112.0" y1="84" x2="140.0" y2="84" stroke="#444444" stroke-width="2.5"/>
+<text x="148.0" y="88.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Sequencial</text>
+<line x1="112.0" y1="106" x2="140.0" y2="106" stroke="#1f6fb4" stroke-width="2.5"/>
+<text x="148.0" y="110.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Paralela, 4 threads</text>
+</svg>
