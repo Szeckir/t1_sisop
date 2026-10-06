@@ -2,7 +2,8 @@
 
 **Disciplina:** Sistemas Operacionais
 **Professor:** Filipo Mor  
-**Autores:** Júlia Bettiol de Oliveira e Thomaz Szeckir Gomes
+**Autores:** Júlia Bettiol de Oliveira e Thomaz Gomes Szeckir
+**Link da Apresentação:** https://youtu.be/fNzSmvmrRsY?is=ooUJYSR2z8N0p5vW
 
 ## 1. Objetivo
 
